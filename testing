@@ -1,4 +1,4 @@
-class PrimeNumbers
+class PrimeNumbers123
 {
    public static void main (String[] args)
    {		
